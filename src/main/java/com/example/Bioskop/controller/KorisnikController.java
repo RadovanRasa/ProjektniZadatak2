@@ -1,4 +1,4 @@
-package com.example.Bioskop.controller;
+/*package com.example.Bioskop.controller;
 
 import com.example.Bioskop.entity.DTO.KorisnikDTO;
 import com.example.Bioskop.entity.DTO.PrijavaDTO;
@@ -75,3 +75,4 @@ public class KorisnikController {
 
 
 }
+*/
